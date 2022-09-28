@@ -18,7 +18,7 @@ Desarrollar una aplicación que nos muestre si una persona ha consumido alcohol 
 ## Tabla del software utilizado
 | id |  Software  |  Versión  |  Tipo  |
 |----|------------|-----------|--------|
-|  1 |   ESP32    |    1.0    |  Placa |
+|    |            |           |        |
 |    |            |           |        |
 |    |            |           |        |
 |    |            |           |        |
@@ -28,7 +28,7 @@ Desarrollar una aplicación que nos muestre si una persona ha consumido alcohol 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|    |            |             |        |          |             |
+| 1  |   ESP32    | Arduino     |        |   1      |   165       |
 |    |            |             |        |          |             |
 |    |            |             |        |          |             |
 
