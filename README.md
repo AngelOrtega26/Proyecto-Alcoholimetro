@@ -55,3 +55,5 @@ Batería 9 voltios
 |    |                     |           |            |               |             |
 ## Prototipo en dibujo
 ![image](https://user-images.githubusercontent.com/99991865/192935895-18699328-7cf9-491e-b9e2-d8fad13cb052.png)
+![image](https://user-images.githubusercontent.com/99991865/192935935-eb6cf287-8554-4acb-8e03-f44b8090ff72.png)
+
