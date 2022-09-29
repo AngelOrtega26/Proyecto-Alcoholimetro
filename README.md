@@ -36,10 +36,10 @@ Desarrollar una aplicación que nos muestre si una persona ha consumido alcohol 
 
 Batería 9 voltios
 ## Epicas del proyecto
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
+- El proyecto debe detectar si hay alcohol en el ambiente
+- El proyecto debe medir el porcentaje de alcohol que existe en el ambiente (Al soplarlo)
+- El proyecto debe dar una alerta con la ayuda de los leds cuando se rebasa cierto limite en el porcentaje de alcohol
+- El proyecto debe dar una alerta en la aplicación con los detalles acerca del porcentaje de alcohol detectado
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
