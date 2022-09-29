@@ -26,9 +26,9 @@ Desarrollar una aplicación que nos muestre si una persona ha consumido alcohol 
 | Id | Componente | Descripción |                                          Imagen                                                   | Cantidad | Costo total |
 |----|------------|-------------|---------------------------------------------------------------------------------------------------|----------|-------------|
 | 1  |   ESP32    |Placa de control|   https://n9.cl/9ejuu                                                                          |   1      |   165       
-| 2  |led verdes  |             |https://cdn.shopify.com/s/files/1/1040/8806/products/photo_OS-0113G_LedVerde-5mm_03_1200x1200.png?v=1598042001                                                                                             |   1      |             |
-| 4  |led amarillo|             |                                                                                                   |   1      |             |
-| 5  |led rojo    |             |                                                                                                   |   1      |             |
+| 2  |led verdes  |Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz |https://cdn.shopify.com/s/files/1/1040/8806/products/photo_OS-0113G_LedVerde-5mm_03_1200x1200.png?v=1598042001   |   1      |   15          |
+| 4  |led amarillo|Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz|                                                                                                   |   1      |      15     |
+| 5  |led rojo    |Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz|                                                                                                   |   1      |      15     |
 | 6  |resistores de 1k|         |                                                                                                   |   1      |             |
 | 7  |protoboard  |             |                                                                                                   |   1      |             |
 | 8  |cablees     |             |                                                                                                   |   5      |             |
