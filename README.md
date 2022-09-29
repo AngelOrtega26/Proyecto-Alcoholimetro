@@ -44,7 +44,7 @@ Batería 9 voltios
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|    |                     |           |            |               |             |
+| 1  | Funcionalidad del proyecto                    |  Alta         | 0.5           |Realizar prubas correspondientes            |Integrantes de equipo             |
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 
