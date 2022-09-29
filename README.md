@@ -32,7 +32,7 @@ Desarrollar una aplicación que nos muestre si una persona ha consumido alcohol 
 | 6  |Resistencias de 1k|se utilizan en los circuitos para limitar el valor de la corriente o para fijar el valor de la tensión, según la Ley de Ohm|![image](https://user-images.githubusercontent.com/99991865/192933039-0b857725-d306-4ced-ae16-679589196f19.png)|   5      |  10         |
 | 7  |Protoboard  |es un tablero con orificios que se encuentran conectados eléctricamente entre sí de manera interna, habitualmente siguiendo patrones de líneas, en el cual se pueden insertar componentes electrónicos, cables para el armado|![image](https://user-images.githubusercontent.com/99991865/192933683-d1955de9-b1fa-4063-8218-b822c8b7eedf.png)|   1      |     110        |
 | 8  |Cables     |sirve para conectar todos los compenetes a la protoboard|![image](https://user-images.githubusercontent.com/99991865/192934122-6938a1d7-55a6-4caa-85c9-80a27cf06301.png)|   5      |    55        |
-| 9  |sensor de alcohol|sirve para conectar todos los compenetes a la protoboard|![image](https://user-images.githubusercontent.com/99991865/192934822-a7126c55-1201-467f-b89a-ab26aeb36c17.png)|   1      |    85        |
+| 9  |sensor de alcohol|Dispositivo que detecta vapor de alcohol y entrega una salida análoga dependiendo de la concentración. Descripción: Dispositivo que detecta vapor de alcohol y entrega una salida análoga dependiendo de la concentración de alcohol|![image](https://user-images.githubusercontent.com/99991865/192934822-a7126c55-1201-467f-b89a-ab26aeb36c17.png)|   1      |    85        |
 
 Batería 9 voltios
 ## Epicas del proyecto
