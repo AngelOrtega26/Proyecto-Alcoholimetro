@@ -30,10 +30,10 @@ Desarrollar una aplicación que nos muestre si una persona ha consumido alcohol 
 |    |            |             |                                                                                                   |          |             |
 
 ## Epicas del proyecto
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
+- El proyecto debe detectar si hay rastros de alcohol en el ambiente.
+- El proyecto debe medir los porcentajes de alcohol que hay en el ambiente (al soplarlo).
+- El proyecto debe emitir una alerta en caso de que el porcentaje de alcohol sea superior a cierto límite.
+- El proyecto debe envíar los datos acerca de la lectura de los porcentajes de alcohol que se detectaron a una aplicación móvil.
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
