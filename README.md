@@ -26,10 +26,11 @@ Desarrollar una aplicación que nos muestre si una persona ha consumido alcohol 
 | Id | Componente | Descripción |                                          Imagen                                                   | Cantidad | Costo total |
 |----|------------|-------------|---------------------------------------------------------------------------------------------------|----------|-------------|
 | 1  |   ESP32    |Placa de control|   https://n9.cl/9ejuu                                                                          |   1      |   165       
-| 2  |led verdes  |Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz |https://cdn.shopify.com/s/files/1/1040/8806/products/photo_OS-0113G_LedVerde-5mm_03_1200x1200.png?v=1598042001   |   1      |   15          |
+| 2  |led verdes  |Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz |![image](https://user-images.githubusercontent.com/99991865/192932983-84794e7e-a316-4e55-825b-cfb9cd3e808a.png)
+  |   1      |   15          |
 | 4  |led amarillo|Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz|                                                                                                   |   1      |      15     |
 | 5  |led rojo    |Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz|                                                                                                   |   1      |      15     |
-| 6  |resistores de 1k|se utilizan en los circuitos para limitar el valor de la corriente o para fijar el valor de la tensión, según la Ley de Ohm|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs1oZJ7TDEevONwQPL40pEy9XbODQcvRutT5CTdX-P9ZX-I8nTQIVxHMOJiF7793CF9iQ&usqp=CAU |   1      |             |
+| 6  |resistores de 1k|se utilizan en los circuitos para limitar el valor de la corriente o para fijar el valor de la tensión, según la Ley de Ohm| |   1      |             |
 | 7  |protoboard  |             |                                                                                                   |   1      |             |
 | 8  |cablees     |             |                                                                                                   |   5      |             |
 
