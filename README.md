@@ -45,7 +45,12 @@ Batería 9 voltios
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
 | 1  | Funcionalidad del proyecto                    |  Alta         | 0.5           |Realizar prubas correspondientes            |Integrantes de equipo             |
+| 2  |Funcionalidad del sensor de gas MQ 3                     | Alta          | Realización de prueba funcional con una deteccion de gas           | Integrantes de equipo              |             |
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
-
+|    |                     |           |            |               |             |
+|    |                     |           |            |               |             |
+|    |                     |           |            |               |             |
+|    |                     |           |            |               |             |
+|    |                     |           |            |               |             |
 ## Prototipo en dibujo
