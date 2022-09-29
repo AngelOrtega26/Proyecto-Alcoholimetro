@@ -12,18 +12,15 @@ Desarrollar una aplicación que nos muestre si una persona ha consumido alcohol 
 ### Objetivos específicos
 - 1.- Interpretar esquemas eléctricos yrealizar el montaje a partir de este,utilizando para ello distintos materiales.
 - 2.- Conocer y utilizar los códigos deArduino Uno para el óptimofuncionamiento del alcoholímetro.
-- 3.- Conocer los principios, elementos yaplicaciones básicas de distintossistemas de control eléctricos.
+- 3.- Conocer los principios, elementos yaplicaciones básicas de distintos sistemas de control eléctricos.
 - 4.- Representar a través de un sensor de gas la medición del porcentaje de alcohol realizada por un alcoholímetro.
 
 ## Tabla del software utilizado
-| id |  Software  |  Versión  |  Tipo  |
-|----|------------|-----------|--------|
-|    |            |           |        |
-|    |            |           |        |
-|    |            |           |        |
-|    |            |           |        |
-|    |            |           |        |
-|    |            |           |        |
+| id |  Software          |  Versión  |  Tipo  |
+|----|--------------------|-----------|--------|
+|  1 | Visual Studio Code |  1.71.2   |  IDE   |
+|  2 | Android Studio     |  2021.3   |  IDE   |
+|    |                    |           |        |
 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción |                                          Imagen                                                   | Cantidad | Costo total |
