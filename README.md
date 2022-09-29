@@ -49,3 +49,6 @@ Batería 9 voltios
 | 3  | Funcionalidad de los leds             | Media         |  0.3          | Realizar prueba segun el nivel del gas se encenderan             |   integrantes del equipo          |
 
 ## Prototipo en dibujo
+![image](https://user-images.githubusercontent.com/99991865/192936778-39b2fe11-2343-4a57-9932-fb1ba8ae76d1.png)
+![image](https://user-images.githubusercontent.com/99991865/192936794-274c5f21-6002-47d9-a9e5-a5c583eff731.png)
+
