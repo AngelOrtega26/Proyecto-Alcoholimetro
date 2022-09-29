@@ -25,15 +25,20 @@ Desarrollar una aplicación que nos muestre si una persona ha consumido alcohol 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción |                                          Imagen                                                   | Cantidad | Costo total |
 |----|------------|-------------|---------------------------------------------------------------------------------------------------|----------|-------------|
-| 1  |   ESP32    |Placa de control|   https://n9.cl/9ejuu                                                                             |   1      |   165       |
-|    |            |             |                                                                                                   |          |             |
-|    |            |             |                                                                                                   |          |             |
+| 1  |   ESP32    |Placa de control|   https://n9.cl/9ejuu                                                                          |   1      |   165       
+| 2  |led verdes  |             |https://cdn.shopify.com/s/files/1/1040/8806/products/photo_OS-0113G_LedVerde-5mm_03_1200x1200.png?v=1598042001                                                                                             |   1      |             |
+| 4  |led amarillo|             |                                                                                                   |   1      |             |
+| 5  |led rojo    |             |                                                                                                   |   1      |             |
+| 6  |resistores de 1k|         |                                                                                                   |   1      |             |
+| 7  |protoboard  |             |                                                                                                   |   1      |             |
+| 8  |cablees     |             |                                                                                                   |   5      |             |
 
+Batería 9 voltios
 ## Epicas del proyecto
-- El proyecto debe detectar si hay rastros de alcohol en el ambiente.
-- El proyecto debe medir los porcentajes de alcohol que hay en el ambiente (al soplarlo).
-- El proyecto debe emitir una alerta en caso de que el porcentaje de alcohol sea superior a cierto límite.
-- El proyecto debe envíar los datos acerca de la lectura de los porcentajes de alcohol que se detectaron a una aplicación móvil.
+- Elemento de la lista de épicas del proyecto
+- Elemento de la lista de épicas del proyecto
+- Elemento de la lista de épicas del proyecto
+- Elemento de la lista de épicas del proyecto
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
