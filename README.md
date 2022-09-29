@@ -45,8 +45,8 @@ Batería 9 voltios
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
 | 1  | Funcionalidad del proyecto                    |  Alta         | 0.5           |Realizar prubas correspondientes            |Integrantes de equipo             |
-| 2  |Funcionalidad del sensor de gas MQ 3                     | Alta          | Realización de prueba funcional con una deteccion de gas           | Integrantes de equipo              |             |
-|    |                     |           |            |               |             |
+| 2  |Funcionalidad del sensor de gas MQ 3   | Alta          | 0.5          | Realizar prueba con gas para su detección              | Integrantes de equipo |
+| 3  | Funcionalidad de los leds             | Media         |  0.3          | Realizar prueba segun el nivel del gas se encenderan             |   integrantes del equipo          |
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
@@ -54,6 +54,3 @@ Batería 9 voltios
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 ## Prototipo en dibujo
-![image](https://user-images.githubusercontent.com/99991865/192935895-18699328-7cf9-491e-b9e2-d8fad13cb052.png)
-![image](https://user-images.githubusercontent.com/99991865/192935935-eb6cf287-8554-4acb-8e03-f44b8090ff72.png)
-
