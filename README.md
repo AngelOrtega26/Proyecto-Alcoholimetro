@@ -36,17 +36,17 @@ Desarrollar una aplicación que nos muestre si una persona ha consumido alcohol 
 
 Batería 9 voltios
 ## Epicas del proyecto
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
-- Elemento de la lista de épicas del proyecto
+- El proyecto debe detectar si hay alcohol en el ambiente
+- El proyecto debe medir el porcentaje de alcohol que existe en el ambiente (Al soplarlo)
+- El proyecto debe dar una alerta con la ayuda de los leds cuando se rebasa cierto limite en el porcentaje de alcohol
+- El proyecto debe dar una alerta en la aplicación con los detalles acerca del porcentaje de alcohol detectado
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
 | 1  | Funcionalidad del proyecto                    |  Alta         | 0.5           |Realizar prubas correspondientes            |Integrantes de equipo             |
-| 2  |Funcionalidad del sensor de gas MQ 3   | Alta          | 0.5          | Realizar prueba con gas para su detección              | Integrantes de equipo |
-| 3  | Funcionalidad de los leds             | Media         |  0.3          | Realizar prueba segun el nivel del gas se encenderan             |   integrantes del equipo          |
+| 2  |Funcionalidad del sensor de gas MQ 3                     | Alta          | Realización de prueba funcional con una deteccion de gas           | Integrantes de equipo              |             |
+|    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
@@ -54,3 +54,4 @@ Batería 9 voltios
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 ## Prototipo en dibujo
+![image](https://user-images.githubusercontent.com/99991865/192935895-18699328-7cf9-491e-b9e2-d8fad13cb052.png)
