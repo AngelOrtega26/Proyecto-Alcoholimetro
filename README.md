@@ -28,9 +28,12 @@ Desarrollar una aplicación que nos muestre si una persona ha consumido alcohol 
 | 1  |   ESP32    |Placa de control|   https://n9.cl/9ejuu                                                                          |   1      |   165       
 | 2  |led verdes  |Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz |![image](https://user-images.githubusercontent.com/99991865/192932983-84794e7e-a316-4e55-825b-cfb9cd3e808a.png)
   |   1      |   15          |
-| 4  |led amarillo|Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz|                                                                                                   |   1      |      15     |
-| 5  |led rojo    |Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz|                                                                                                   |   1      |      15     |
-| 6  |resistores de 1k|se utilizan en los circuitos para limitar el valor de la corriente o para fijar el valor de la tensión, según la Ley de Ohm| |   1      |             |
+| 4  |led amarillo|Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz|![image](https://user-images.githubusercontent.com/99991865/192933020-9a90e9b7-8c89-410f-a89d-7dc7f99814ef.png)
+                                                                                                   |   1      |      15     |
+| 5  |led rojo    |Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz|![image](https://user-images.githubusercontent.com/99991865/192933021-f55b80cb-b9ae-44ac-99c5-23cd6ff9bc79.png)
+                                                                                                   |   1      |      15     |
+| 6  |resistores de 1k|se utilizan en los circuitos para limitar el valor de la corriente o para fijar el valor de la tensión, según la Ley de Ohm|![image](https://user-images.githubusercontent.com/99991865/192933039-0b857725-d306-4ced-ae16-679589196f19.png)
+|   1      |             |
 | 7  |protoboard  |             |                                                                                                   |   1      |             |
 | 8  |cablees     |             |                                                                                                   |   5      |             |
 
