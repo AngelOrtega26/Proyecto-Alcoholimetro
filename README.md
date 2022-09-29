@@ -47,10 +47,5 @@ Batería 9 voltios
 | 1  | Funcionalidad del proyecto                    |  Alta         | 0.5           |Realizar prubas correspondientes con alguna detección de gas para comprobar que su funcionamiento sea el correcto.            |Integrantes de equipo             |
 | 2  |Funcionalidad del sensor de gas MQ 3   | Alta          | 0.5          | Realizar prueba con algún gas posible de verificar el funcionamiento del mismo.             | Integrantes de equipo |
 | 3  | Funcionalidad de los leds             | Media         |  0.3          | Realizar prueba segun el nivel del gas se encenderan             |   integrantes del equipo          |
-|    |                     |           |            |               |             |
-|    |                     |           |            |               |             |
-|    |                     |           |            |               |             |
-|    |                     |           |            |               |             |
-|    |                     |           |            |               |             |
-|    |                     |           |            |               |             |
+
 ## Prototipo en dibujo
